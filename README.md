@@ -6,7 +6,7 @@
 
 [网页体验](https://answers-book-ethan.yguodong627.chatgpt.site) · [作品资料与截图](作品资料/答案之书/V1.0/README.md)
 
-网页当前为站主私有预览，面向公众开放尚待确认。iOS版本暂未上架。
+网页免登录公开体验。iOS版本暂未上架。
 
 ## 能做什么
 

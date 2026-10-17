@@ -1,6 +1,6 @@
 # 答案之书 · The Book of Answers
 
-作品资料版本：V1.0｜状态：网页已完成，公开访问待确认｜日期：2026年10月17日。
+作品资料版本：V1.0｜状态：已发布公开网页及GitHub作品展示｜日期：2026年10月17日。
 
 ## 解决什么问题／能做什么
 
@@ -10,7 +10,7 @@
 
 ## 体验链接和GitHub链接
 
-- 网页体验：https://answers-book-ethan.yguodong627.chatgpt.site （当前站主私有预览，公开访问待确认）
+- 网页体验：https://answers-book-ethan.yguodong627.chatgpt.site （免登录公开体验）
 - GitHub：https://github.com/yguodong627-star/answers-book （公开源码展示）
 
 ## 截图
