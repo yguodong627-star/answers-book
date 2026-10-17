@@ -1,0 +1,722 @@
+[
+  {
+    "id": "answer_001",
+    "zh": "值得一试",
+    "en": "It is worth a try",
+    "category": "肯定"
+  },
+  {
+    "id": "answer_002",
+    "zh": "可以开始了",
+    "en": "You can begin now",
+    "category": "肯定"
+  },
+  {
+    "id": "answer_003",
+    "zh": "给它一次机会",
+    "en": "Give it a chance",
+    "category": "肯定"
+  },
+  {
+    "id": "answer_004",
+    "zh": "这次选自己",
+    "en": "Choose yourself this time",
+    "category": "肯定"
+  },
+  {
+    "id": "answer_005",
+    "zh": "你的想法有价值",
+    "en": "Your idea has value",
+    "category": "肯定"
+  },
+  {
+    "id": "answer_006",
+    "zh": "接受这份好意",
+    "en": "Accept the kindness",
+    "category": "肯定"
+  },
+  {
+    "id": "answer_007",
+    "zh": "允许自己期待",
+    "en": "Let yourself look forward to it",
+    "category": "肯定"
+  },
+  {
+    "id": "answer_008",
+    "zh": "继续这份热爱",
+    "en": "Keep doing what you love",
+    "category": "肯定"
+  },
+  {
+    "id": "answer_009",
+    "zh": "认真对待这个愿望",
+    "en": "Take this wish seriously",
+    "category": "肯定"
+  },
+  {
+    "id": "answer_010",
+    "zh": "相信你的准备",
+    "en": "Trust your preparation",
+    "category": "肯定"
+  },
+  {
+    "id": "answer_011",
+    "zh": "你有选择的余地",
+    "en": "You have options",
+    "category": "肯定"
+  },
+  {
+    "id": "answer_012",
+    "zh": "可以再勇敢一点",
+    "en": "You can be a little braver",
+    "category": "肯定"
+  },
+  {
+    "id": "answer_013",
+    "zh": "给自己一次机会",
+    "en": "Give yourself a chance",
+    "category": "肯定"
+  },
+  {
+    "id": "answer_014",
+    "zh": "这份努力有意义",
+    "en": "Your effort matters",
+    "category": "肯定"
+  },
+  {
+    "id": "answer_015",
+    "zh": "试试新的可能",
+    "en": "Try a new possibility",
+    "category": "肯定"
+  },
+  {
+    "id": "answer_016",
+    "zh": "你可以提出要求",
+    "en": "You can ask for what you need",
+    "category": "肯定"
+  },
+  {
+    "id": "answer_017",
+    "zh": "不妨接受邀请",
+    "en": "Consider accepting the invitation",
+    "category": "肯定"
+  },
+  {
+    "id": "answer_018",
+    "zh": "给快乐留个位置",
+    "en": "Make room for joy",
+    "category": "肯定"
+  },
+  {
+    "id": "answer_019",
+    "zh": "允许自己被帮助",
+    "en": "Let others help you",
+    "category": "肯定"
+  },
+  {
+    "id": "answer_020",
+    "zh": "你可以有不同的选择",
+    "en": "You can choose something different",
+    "category": "肯定"
+  },
+  {
+    "id": "answer_021",
+    "zh": "这次可以拒绝",
+    "en": "You can say no this time",
+    "category": "否定与边界"
+  },
+  {
+    "id": "answer_022",
+    "zh": "不必勉强自己",
+    "en": "Do not force yourself",
+    "category": "否定与边界"
+  },
+  {
+    "id": "answer_023",
+    "zh": "别急着答应",
+    "en": "Do not say yes too quickly",
+    "category": "否定与边界"
+  },
+  {
+    "id": "answer_024",
+    "zh": "先别追加投入",
+    "en": "Pause before giving more",
+    "category": "否定与边界"
+  },
+  {
+    "id": "answer_025",
+    "zh": "放下这份较量",
+    "en": "Let go of this contest",
+    "category": "否定与边界"
+  },
+  {
+    "id": "answer_026",
+    "zh": "不必证明给谁看",
+    "en": "You have nothing to prove",
+    "category": "否定与边界"
+  },
+  {
+    "id": "answer_027",
+    "zh": "别替别人决定",
+    "en": "Do not decide for others",
+    "category": "否定与边界"
+  },
+  {
+    "id": "answer_028",
+    "zh": "不需要全盘接受",
+    "en": "You need not accept it all",
+    "category": "否定与边界"
+  },
+  {
+    "id": "answer_029",
+    "zh": "别用委屈换取认同",
+    "en": "Do not trade your peace for approval",
+    "category": "否定与边界"
+  },
+  {
+    "id": "answer_030",
+    "zh": "不必追赶所有人",
+    "en": "You need not keep up with everyone",
+    "category": "否定与边界"
+  },
+  {
+    "id": "answer_031",
+    "zh": "这件事可以不做",
+    "en": "You can leave this undone",
+    "category": "否定与边界"
+  },
+  {
+    "id": "answer_032",
+    "zh": "别急着责怪自己",
+    "en": "Do not blame yourself too soon",
+    "category": "否定与边界"
+  },
+  {
+    "id": "answer_033",
+    "zh": "不要替沉默找理由",
+    "en": "Do not make excuses for silence",
+    "category": "否定与边界"
+  },
+  {
+    "id": "answer_034",
+    "zh": "无需事事回应",
+    "en": "You need not respond to everything",
+    "category": "否定与边界"
+  },
+  {
+    "id": "answer_035",
+    "zh": "把边界说清楚",
+    "en": "Make your boundaries clear",
+    "category": "否定与边界"
+  },
+  {
+    "id": "answer_036",
+    "zh": "别把猜测当事实",
+    "en": "Do not mistake guesses for facts",
+    "category": "否定与边界"
+  },
+  {
+    "id": "answer_037",
+    "zh": "这份责任不全在你",
+    "en": "This responsibility is not yours alone",
+    "category": "否定与边界"
+  },
+  {
+    "id": "answer_038",
+    "zh": "别只为讨好而选",
+    "en": "Do not choose just to please others",
+    "category": "否定与边界"
+  },
+  {
+    "id": "answer_039",
+    "zh": "不必重复旧选择",
+    "en": "You need not choose the same again",
+    "category": "否定与边界"
+  },
+  {
+    "id": "answer_040",
+    "zh": "允许这件事结束",
+    "en": "Let this come to an end",
+    "category": "否定与边界"
+  },
+  {
+    "id": "answer_041",
+    "zh": "再给它一点时间",
+    "en": "Give it a little more time",
+    "category": "等待与节奏"
+  },
+  {
+    "id": "answer_042",
+    "zh": "今天不必定下来",
+    "en": "You need not decide today",
+    "category": "等待与节奏"
+  },
+  {
+    "id": "answer_043",
+    "zh": "先睡一觉",
+    "en": "Sleep on it",
+    "category": "等待与节奏"
+  },
+  {
+    "id": "answer_044",
+    "zh": "等情绪平静些",
+    "en": "Wait until you feel calmer",
+    "category": "等待与节奏"
+  },
+  {
+    "id": "answer_045",
+    "zh": "慢一点也可以",
+    "en": "It is okay to go slowly",
+    "category": "等待与节奏"
+  },
+  {
+    "id": "answer_046",
+    "zh": "留一点空白",
+    "en": "Leave a little space",
+    "category": "等待与节奏"
+  },
+  {
+    "id": "answer_047",
+    "zh": "答案还在变化",
+    "en": "The answer is still changing",
+    "category": "等待与节奏"
+  },
+  {
+    "id": "answer_048",
+    "zh": "暂时保持现状",
+    "en": "Keep things as they are for now",
+    "category": "等待与节奏"
+  },
+  {
+    "id": "answer_049",
+    "zh": "让事情走一小段",
+    "en": "Let things unfold a little",
+    "category": "等待与节奏"
+  },
+  {
+    "id": "answer_050",
+    "zh": "不必赶在今天",
+    "en": "It does not have to be today",
+    "category": "等待与节奏"
+  },
+  {
+    "id": "answer_051",
+    "zh": "休息后再看",
+    "en": "Look again after a rest",
+    "category": "等待与节奏"
+  },
+  {
+    "id": "answer_052",
+    "zh": "先完成眼前这件",
+    "en": "Finish the task in front of you",
+    "category": "等待与节奏"
+  },
+  {
+    "id": "answer_053",
+    "zh": "等待更多信息",
+    "en": "Wait for more information",
+    "category": "等待与节奏"
+  },
+  {
+    "id": "answer_054",
+    "zh": "给彼此一些空间",
+    "en": "Give each other some space",
+    "category": "等待与节奏"
+  },
+  {
+    "id": "answer_055",
+    "zh": "别急着填满沉默",
+    "en": "Do not rush to fill the silence",
+    "category": "等待与节奏"
+  },
+  {
+    "id": "answer_056",
+    "zh": "先照顾好日常",
+    "en": "Tend to everyday life first",
+    "category": "等待与节奏"
+  },
+  {
+    "id": "answer_057",
+    "zh": "把脚步放稳",
+    "en": "Find your footing",
+    "category": "等待与节奏"
+  },
+  {
+    "id": "answer_058",
+    "zh": "让期待轻一点",
+    "en": "Hold your expectations lightly",
+    "category": "等待与节奏"
+  },
+  {
+    "id": "answer_059",
+    "zh": "现在适合观察",
+    "en": "Now is a time to observe",
+    "category": "等待与节奏"
+  },
+  {
+    "id": "answer_060",
+    "zh": "等一个明确回应",
+    "en": "Wait for a clear response",
+    "category": "等待与节奏"
+  },
+  {
+    "id": "answer_061",
+    "zh": "先做最小的一步",
+    "en": "Take the smallest step first",
+    "category": "行动与尝试"
+  },
+  {
+    "id": "answer_062",
+    "zh": "把问题写下来",
+    "en": "Write the question down",
+    "category": "行动与尝试"
+  },
+  {
+    "id": "answer_063",
+    "zh": "去问清楚",
+    "en": "Ask for clarity",
+    "category": "行动与尝试"
+  },
+  {
+    "id": "answer_064",
+    "zh": "试一次小的改变",
+    "en": "Try a small change",
+    "category": "行动与尝试"
+  },
+  {
+    "id": "answer_065",
+    "zh": "从能做的开始",
+    "en": "Start with what you can do",
+    "category": "行动与尝试"
+  },
+  {
+    "id": "answer_066",
+    "zh": "把计划缩小一点",
+    "en": "Make the plan a little smaller",
+    "category": "行动与尝试"
+  },
+  {
+    "id": "answer_067",
+    "zh": "先做一个样本",
+    "en": "Make a sample first",
+    "category": "行动与尝试"
+  },
+  {
+    "id": "answer_068",
+    "zh": "找个可信的人聊聊",
+    "en": "Talk to someone you trust",
+    "category": "行动与尝试"
+  },
+  {
+    "id": "answer_069",
+    "zh": "把需要说出来",
+    "en": "Say what you need",
+    "category": "行动与尝试"
+  },
+  {
+    "id": "answer_070",
+    "zh": "给自己一个期限",
+    "en": "Set yourself a deadline",
+    "category": "行动与尝试"
+  },
+  {
+    "id": "answer_071",
+    "zh": "先核实那条消息",
+    "en": "Check that information first",
+    "category": "行动与尝试"
+  },
+  {
+    "id": "answer_072",
+    "zh": "换一种方法试试",
+    "en": "Try another approach",
+    "category": "行动与尝试"
+  },
+  {
+    "id": "answer_073",
+    "zh": "给第一步定个时间",
+    "en": "Set a time for the first step",
+    "category": "行动与尝试"
+  },
+  {
+    "id": "answer_074",
+    "zh": "收拾一个小角落",
+    "en": "Tidy one small corner",
+    "category": "行动与尝试"
+  },
+  {
+    "id": "answer_075",
+    "zh": "重新联系一次",
+    "en": "Reach out once more",
+    "category": "行动与尝试"
+  },
+  {
+    "id": "answer_076",
+    "zh": "先完成，再打磨",
+    "en": "Finish first, then refine",
+    "category": "行动与尝试"
+  },
+  {
+    "id": "answer_077",
+    "zh": "为意外留个余地",
+    "en": "Leave room for the unexpected",
+    "category": "行动与尝试"
+  },
+  {
+    "id": "answer_078",
+    "zh": "从一次练习开始",
+    "en": "Begin with one practice run",
+    "category": "行动与尝试"
+  },
+  {
+    "id": "answer_079",
+    "zh": "把承诺变成行动",
+    "en": "Put your promise into action",
+    "category": "行动与尝试"
+  },
+  {
+    "id": "answer_080",
+    "zh": "先处理最清楚的部分",
+    "en": "Start with the clearest part",
+    "category": "行动与尝试"
+  },
+  {
+    "id": "answer_081",
+    "zh": "你真正想要什么",
+    "en": "What do you really want",
+    "category": "反思与选择"
+  },
+  {
+    "id": "answer_082",
+    "zh": "这是你的愿望吗",
+    "en": "Is this your wish",
+    "category": "反思与选择"
+  },
+  {
+    "id": "answer_083",
+    "zh": "区分喜欢与习惯",
+    "en": "Separate liking from habit",
+    "category": "反思与选择"
+  },
+  {
+    "id": "answer_084",
+    "zh": "看看你在害怕什么",
+    "en": "Notice what you fear",
+    "category": "反思与选择"
+  },
+  {
+    "id": "answer_085",
+    "zh": "换个角度看",
+    "en": "Look from another angle",
+    "category": "反思与选择"
+  },
+  {
+    "id": "answer_086",
+    "zh": "什么值得你留下来",
+    "en": "What is worth staying for",
+    "category": "反思与选择"
+  },
+  {
+    "id": "answer_087",
+    "zh": "留意反复出现的感受",
+    "en": "Notice the feelings that return",
+    "category": "反思与选择"
+  },
+  {
+    "id": "answer_088",
+    "zh": "别忽略自己的犹豫",
+    "en": "Pay attention to your hesitation",
+    "category": "反思与选择"
+  },
+  {
+    "id": "answer_089",
+    "zh": "选更符合心意的",
+    "en": "Choose what feels right for you",
+    "category": "反思与选择"
+  },
+  {
+    "id": "answer_090",
+    "zh": "想想愿意付出的代价",
+    "en": "Consider the cost you can accept",
+    "category": "反思与选择"
+  },
+  {
+    "id": "answer_091",
+    "zh": "你需要一个新问题",
+    "en": "You need a new question",
+    "category": "反思与选择"
+  },
+  {
+    "id": "answer_092",
+    "zh": "分清事实与期待",
+    "en": "Separate facts from hopes",
+    "category": "反思与选择"
+  },
+  {
+    "id": "answer_093",
+    "zh": "看看行动，而非承诺",
+    "en": "Look at actions, not promises",
+    "category": "反思与选择"
+  },
+  {
+    "id": "answer_094",
+    "zh": "哪种选择更自在",
+    "en": "Which choice puts you more at ease",
+    "category": "反思与选择"
+  },
+  {
+    "id": "answer_095",
+    "zh": "别让过去替你决定",
+    "en": "Do not let the past decide",
+    "category": "反思与选择"
+  },
+  {
+    "id": "answer_096",
+    "zh": "问问未来的自己",
+    "en": "Ask your future self",
+    "category": "反思与选择"
+  },
+  {
+    "id": "answer_097",
+    "zh": "也许不止两个选项",
+    "en": "There may be more than two options",
+    "category": "反思与选择"
+  },
+  {
+    "id": "answer_098",
+    "zh": "重新看看起点",
+    "en": "Take another look at the starting point",
+    "category": "反思与选择"
+  },
+  {
+    "id": "answer_099",
+    "zh": "你想守住什么",
+    "en": "What do you want to protect",
+    "category": "反思与选择"
+  },
+  {
+    "id": "answer_100",
+    "zh": "试着接受不确定",
+    "en": "Try to accept uncertainty",
+    "category": "反思与选择"
+  },
+  {
+    "id": "answer_101",
+    "zh": "把今天还给自己",
+    "en": "Take today back for yourself",
+    "category": "放下与自我关照"
+  },
+  {
+    "id": "answer_102",
+    "zh": "你可以改变主意",
+    "en": "You can change your mind",
+    "category": "放下与自我关照"
+  },
+  {
+    "id": "answer_103",
+    "zh": "不完美也能开始",
+    "en": "You can begin imperfectly",
+    "category": "放下与自我关照"
+  },
+  {
+    "id": "answer_104",
+    "zh": "别把一次当永远",
+    "en": "One moment is not forever",
+    "category": "放下与自我关照"
+  },
+  {
+    "id": "answer_105",
+    "zh": "给自己一点温柔",
+    "en": "Be a little kinder to yourself",
+    "category": "放下与自我关照"
+  },
+  {
+    "id": "answer_106",
+    "zh": "有些遗憾可以留下",
+    "en": "Some regrets can remain",
+    "category": "放下与自我关照"
+  },
+  {
+    "id": "answer_107",
+    "zh": "无需马上释怀",
+    "en": "You need not let go right away",
+    "category": "放下与自我关照"
+  },
+  {
+    "id": "answer_108",
+    "zh": "不必把每件事做满",
+    "en": "You need not give everything your all",
+    "category": "放下与自我关照"
+  },
+  {
+    "id": "answer_109",
+    "zh": "失落值得被听见",
+    "en": "Your disappointment deserves to be heard",
+    "category": "放下与自我关照"
+  },
+  {
+    "id": "answer_110",
+    "zh": "先找回自己的节奏",
+    "en": "Find your own rhythm first",
+    "category": "放下与自我关照"
+  },
+  {
+    "id": "answer_111",
+    "zh": "留住让你安心的",
+    "en": "Keep what brings you peace",
+    "category": "放下与自我关照"
+  },
+  {
+    "id": "answer_112",
+    "zh": "承认疲惫也可以",
+    "en": "It is okay to admit you are tired",
+    "category": "放下与自我关照"
+  },
+  {
+    "id": "answer_113",
+    "zh": "把比较放在一旁",
+    "en": "Set comparison aside",
+    "category": "放下与自我关照"
+  },
+  {
+    "id": "answer_114",
+    "zh": "这一次，原谅自己",
+    "en": "Forgive yourself this time",
+    "category": "放下与自我关照"
+  },
+  {
+    "id": "answer_115",
+    "zh": "允许故事翻页",
+    "en": "Let the story turn a page",
+    "category": "放下与自我关照"
+  },
+  {
+    "id": "answer_116",
+    "zh": "有些距离是必要的",
+    "en": "Some distance is needed",
+    "category": "放下与自我关照"
+  },
+  {
+    "id": "answer_117",
+    "zh": "别忘了已经走过的路",
+    "en": "Remember how far you have come",
+    "category": "放下与自我关照"
+  },
+  {
+    "id": "answer_118",
+    "zh": "为小小的进步高兴",
+    "en": "Celebrate small steps forward",
+    "category": "放下与自我关照"
+  },
+  {
+    "id": "answer_119",
+    "zh": "今天做到这里就好",
+    "en": "This is enough for today",
+    "category": "放下与自我关照"
+  },
+  {
+    "id": "answer_120",
+    "zh": "把注意力带回此刻",
+    "en": "Bring your attention to this moment",
+    "category": "放下与自我关照"
+  }
+]

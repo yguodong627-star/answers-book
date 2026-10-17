@@ -1,0 +1,8 @@
+作品名称：答案之书 · The Book of Answers
+
+为日常小事带来一句双语启发。支持真实翻书动画、收藏、问题备注与纸质分享卡片。
+
+网页体验（当前私有，公开待确认）：https://answers-book-ethan.yguodong627.chatgpt.site
+GitHub（公开）：https://github.com/yguodong627-star/answers-book
+
+截图见“截图”文件夹，实际导出卡片见“附图”文件夹。

@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#201811"><meta name="description" content="把犹豫交给一页纸。翻开答案之书，遇见一句中英双语启发。可收藏、记录问题与分享。">
+<title>答案之书 · The Book of Answers</title>
+<link rel="icon" href="assets/icon/v0.2/icon.png"><link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="site-header"><a href="#" class="brand" aria-label="答案之书首页"><img src="assets/icon/v0.2/icon.png" alt="双语棕色书封图标"><span>答案之书<small>THE BOOK OF ANSWERS</small></span></a><nav aria-label="主导航"><button id="library-open">藏书 <span id="record-count">00</span></button><button id="sound-toggle" aria-pressed="false">声音关闭</button><button id="about-open">关于</button></nav></header>
+<main>
+<section class="experience" aria-label="答案之书网页体验">
+<div class="intro"><p class="eyebrow"><span></span> 给心里的问题，一点留白</p><h1>把犹豫<br>交给<span>一页纸</span></h1><p class="intro-copy">有时，我们需要的不是标准答案，<br>而是一个重新看待问题的角度。</p><div class="intro-rule"></div><p class="intro-instruction"><b>01</b> 默念一个问题<br><b>02</b> 轻轻翻开，遇见一句启发</p><p class="edition">120条双语启发 <i>·</i> 本地收藏 <i>·</i> 无需登录</p></div>
+<div class="book-column"><div class="book-shell"><div class="book-stage" id="book-stage" tabindex="0" role="group" aria-label="书本。点击翻开或向左滑动，阅读后可合书">
+<img class="book-poster" id="book-poster" src="assets/book/v0.4/closed.png" alt="暖灯书桌上的棕色答案之书">
+<video id="open-video" muted playsinline preload="auto" aria-hidden="true" src="assets/book/v0.4/open.mp4"></video><video id="close-video" muted playsinline preload="metadata" aria-hidden="true" src="assets/book/v0.4/close.mp4"></video>
+<div class="reading-ink" id="reading-ink" hidden><img class="ornament" src="assets/ornaments/answer.svg" alt=""><div class="answer-copy"><h2 id="answer-zh"></h2><p id="answer-en" lang="en"></p></div><div class="page-corners"></div><span class="page-number" id="answer-page"></span></div>
+<div class="stage-shade"></div><div class="book-actions" id="book-actions" hidden><button id="favorite-current">☆ 收藏</button><button id="note-current">问题 / 备注</button><button id="share-current">↗ 分享</button></div>
+<button class="book-trigger" id="book-trigger"><span class="trigger-arrow">←</span><span id="trigger-text">默念问题，翻开这本书</span></button>
+</div></div><p class="web-caption"><span class="live-dot"></span> 可交互网页体验 <span class="caption-sep">/</span> 左右轻滑，或点击操作</p></div>
+</section>
+<section class="quiet-note"><span>不是预言，是一次换个角度的邀请。</span><a id="github-link" href="https://github.com/yguodong627-star/answers-book" target="_blank" rel="noopener">查看 GitHub ↗</a></section>
+</main>
+<footer>答案之书 <span>·</span> 网页体验 V1.0 <span>·</span> 基于 iOS 0.14.1 <button id="credits-open">素材署名</button></footer>
+<dialog id="library-dialog"><div class="dialog-header"><div><p class="eyebrow">YOUR LITTLE LIBRARY</p><h2>藏书</h2></div><button data-close="library-dialog" class="icon-close" aria-label="关闭藏书">×</button></div><div class="library-tabs" role="tablist"><button id="tab-favorites" role="tab" aria-selected="true">收藏 <span id="favorite-count">0</span></button><button id="tab-history" role="tab" aria-selected="false">历史 <span id="history-count">0</span></button></div><div class="library-description"><p id="library-subtitle">留住一句触动你的话</p><button id="clear-history" hidden>清空未收藏历史</button></div><div id="library-list"></div></dialog>
+<dialog id="note-dialog"><div class="dialog-header"><div><p class="eyebrow">A NOTE TO YOURSELF</p><h2>记录此刻的问题</h2></div><button data-close="note-dialog" class="icon-close" aria-label="取消编辑">×</button></div><p class="note-answer" id="note-answer"></p><label for="note-input">我的问题或备注 <small>仅保存在当前浏览器</small></label><textarea id="note-input" rows="7" placeholder="把心里的问题写下来，也可以留空。"></textarea><div class="dialog-buttons"><button id="note-clear" class="text-button">清空内容</button><span></span><button data-close="note-dialog">取消</button><button class="primary" id="note-save">保存</button></div></dialog>
+<dialog id="share-dialog"><div class="dialog-header"><div><p class="eyebrow">A PAGE TO KEEP</p><h2>分享这一页</h2></div><button data-close="share-dialog" class="icon-close" aria-label="关闭分享预览">×</button></div><div class="share-image-wrap"><img id="share-image" alt="答案分享卡片"></div><label class="share-note-toggle"><input id="share-include-note" type="checkbox"><span>包含我的问题<small>默认仅分享答案，由你决定是否带上备注</small></span></label><p id="share-error" role="alert"></p><div class="dialog-buttons"><button id="share-native" hidden>系统分享</button><button id="share-download" class="primary">保存图片 ↓</button></div></dialog>
+<dialog id="about-dialog"><div class="dialog-header"><div><p class="eyebrow">ABOUT THIS BOOK</p><h2>给问题一个新角度</h2></div><button data-close="about-dialog" class="icon-close" aria-label="关闭关于">×</button></div><p>为一件日常小事犹豫时，默念问题、翻开书页，遇见一句简短启发。答案不是保证，也不替你做决定。</p><p>这个网页重现了已确认的书封、翻书动画与120条双语答案。收藏、历史和备注仅保存在当前浏览器，不与iPhone同步。清除浏览器数据会清除这些记录。</p><p>声音需主动开启。网页不模拟iOS静音键、系统音频会话或真机触觉，动画仍使用当前清晰度的素材。</p><a href="https://github.com/yguodong627-star/answers-book" class="inline-link" target="_blank" rel="noopener">查看iOS与网页源码 ↗</a></dialog>
+<dialog id="credits-dialog"><div class="dialog-header"><h2>素材与署名</h2><button data-close="credits-dialog" class="icon-close" aria-label="关闭素材署名">×</button></div><p>书本动画、双语封面图标与答案内容沿用本项目现有素材，原件在本地项目保留。中文字体 Noto Serif SC，依 <a href="assets/fonts/v0.1/OFL.txt" target="_blank">SIL Open Font License</a> 使用。</p><p>翻书录音：“Book, Flipping Through Pages, A.wav” — <a href="https://www.jshaw.co.uk/" target="_blank" rel="noopener">InspectorJ</a>，来自 <a href="https://freesound.org/people/InspectorJ/sounds/416179/" target="_blank" rel="noopener">Freesound</a>，依 <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a> 使用。修改：格式转换、静态增益、端点淡化与播放时点安排；保持原速。</p><p>微弱合拢声：Joseph SARDIN / <a href="https://bigsoundbank.com/closed-book-1-s1410.html" target="_blank" rel="noopener">BigSoundBank Closed book #1</a>，来源标注CC0。<a href="assets/audio/v0.3/ATTRIBUTION.md" target="_blank">完整声音署名</a>。</p></dialog>
+<dialog id="confirm-dialog" class="confirm-dialog"><h2 id="confirm-title"></h2><p id="confirm-message"></p><div class="dialog-buttons"><button id="confirm-cancel">取消</button><button id="confirm-accept" class="danger">确认删除</button></div></dialog>
+<div class="toast" id="toast" role="status" aria-live="polite"></div><noscript>这个体验需要开启JavaScript。你也可以在GitHub查看项目说明与截图。</noscript>
+<script type="module" src="app.js"></script>
+</body></html>
